@@ -2,7 +2,7 @@
 
 To implement the Neural Radiance Field (NeRF) to synthesize novel views of complex scenes by optimizing an underlying continuous volumetric scene function using a sparse set of input views. NeRF takes input as a single continuous 5D coordinate spatial location (x, y, z) and viewing direction (θ, ϕ) and provides the output as the volume density and emitted radiance which depends on the view. 
 
-<img src="Assets/NeRF.png"  align="center" alt="Undistorted" width="500"/>
+<img src="Assets/NeRF.jpg"  align="center" alt="Undistorted" width="500"/>
 
 ### Dataset
 Download the lego data for NeRF from the original author’s link [here](https://drive.google.com/drive/folders/1lrDkQanWtTznf48FCaW5lX9ToRdNDF1a).
