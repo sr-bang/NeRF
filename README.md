@@ -19,10 +19,10 @@ Path where the checkpoints will be saved: "./Checkpoint/"
 python3 Test.py
 ```
 
-### Result:
+### Result
 <img src="NeRF.gif"  align="center" alt="Undistorted" width="300"/>
 
-### References:
+### References
 1. https://rbe549.github.io/spring2023/proj/p2/
 2. https://arxiv.org/abs/2003.08934
 3. https://pyimagesearch.com/2021/11/17/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-2/
