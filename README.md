@@ -12,7 +12,7 @@ Download the lego data for NeRF from the original author’s link [here](https:/
 ```
 python3 Train.py
 ```
-Path where the checkpoints will be saved: "./Checkpoint/"
+Path where the checkpoints will be saved: './Checkpoint/'
 
 #### To test the NeRF model:
 ```
