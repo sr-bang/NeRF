@@ -5,8 +5,8 @@ To implement the Neural Radiance Field (NeRF) to synthesize novel views of compl
 <img src="Assets/NeRF.png"  align="center" alt="Undistorted" width="500"/>
 
 ### Dataset
-Download the lego data for NeRF from the original author’s link [here](https://drive.google.com/drive/folders/1lrDkQanWtTznf48FCaW5lX9ToRdNDF1a)
-
+Download the lego data for NeRF from the original author’s link [here](https://drive.google.com/drive/folders/1lrDkQanWtTznf48FCaW5lX9ToRdNDF1a).
+.
 ### Implementation
 
 #### To train the NeRF model:
